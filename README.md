@@ -1,3 +1,3 @@
 # Coding-
-Previous Programs I have created
-This is for my school project. 
+Previous Programs I have created. 
+There are several programs here that I have made in school
